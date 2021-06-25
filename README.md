@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gamsbumps
+- 👋 Hi, I’m Guilherme Augusto
 - 👀 I’m interested in AI, Fullstack
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
