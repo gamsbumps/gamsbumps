@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamsbumps
 - 👀 I’m interested in AI, Fullstack
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (81) 996967324 / guilhermecc2@hotmail.com
 
