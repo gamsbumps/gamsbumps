@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Augusto
 - 👀 I’m interested in Data Science, AI, Fullstack
-- 🌱 I’m currently learning C#, .NET
+- 🌱 I’m currently learning Python
 - 📫 How to reach me (81) 996967324 / guilhermecc2@hotmail.com
 
 <!---
