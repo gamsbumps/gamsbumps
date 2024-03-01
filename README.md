@@ -1,7 +1,8 @@
 ## Hi, My name is Guilherme Augusto - AKA GAMS</h1>
-- 🌱 I’m currently learning Ionic, TypeScript and Angular
-- 👯 I’m working at Usina Tech
-- 🥅 Mobile Developer Intern
+- 🌱 I’m currently working with Ionic, Vue, Angular
+- 👯 I’m working at Evenyx
+- 🥅 Web Developer
+- Learning .NET
 
 ## Languages and Tools
 <img align="left" alt="Ionic" style="padding-right:10px;" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
