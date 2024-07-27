@@ -5,6 +5,8 @@
 - Learning .NET
 
 ## Languages and Tools
+<img align="left" alt="Vue" style="padding-right:10px;" width="32px" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"/>
+<img align="left" alt="Nuxt" style="padding-right:10px;" width="32px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc"/>
 <img align="left" alt="Ionic" style="padding-right:10px;" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
 <img align="left" alt="Angular" style="padding-right:10px;" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" alt="JS" style="padding-right:10px;" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
