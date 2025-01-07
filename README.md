@@ -1,8 +1,7 @@
 ## Hi, My name is Guilherme Augusto - AKA GAMS</h1>
-- 🌱 I’m currently working with Ionic, Vue, Angular
+- 🌱 I’m currently working with Ionic, Vue, Angular, Laravel
 - 👯 I’m working at Evenyx
-- 🥅 Web Developer
-- Learning .NET
+- 🥅 Software Engineer
 
 ## Languages and Tools
 <img align="left" alt="Vue" style="padding-right:10px;" width="32px" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"/>
